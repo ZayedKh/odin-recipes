@@ -1,13 +1,30 @@
 *{
+    line-height: 1.75;
     letter-spacing: 1px;
+    text-align: center;
+    list-style-position: inside;
+
 }
+
+.pasta {
+    background-color: #050401;
+    color: #FFFAFF;
+    border: 4px solid #FC5130;;
+}
+
+.pasta .header{
+    color:antiquewhite;;
+    text-decoration-line: underline;
+
+}
+
 
 .lasagna {
     background-color: #0A2E36;
     text-align: center;
     border: 6px solid #68A4B0; 
     border-radius: 14px;
-    color: #8896AB;
+    color: #FFFAFF;
 }
 
 .lasagna .header{
