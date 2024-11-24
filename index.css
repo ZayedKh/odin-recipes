@@ -1,0 +1,62 @@
+*{
+    letter-spacing: 1px;
+}
+
+.lasagna {
+    background-color: #0A2E36;
+    text-align: center;
+    border: 6px solid #68A4B0; 
+    border-radius: 14px;
+    color: #8896AB;
+}
+
+.lasagna .header{
+    text-decoration-line: underline;
+    color: #27FB6B
+}
+
+.lasagna ul, ol{
+    list-style-position: inside;
+}
+
+.lasagna ol{
+    list-style-type: decimal;
+}
+
+.lasagna .intro{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.lasagna p{
+    line-height: 1.75;
+    font-size: 18px;
+}
+
+.lasagna img{
+    width:max-content;
+    height: auto;
+}
+
+
+
+.main {
+    background-color: antiquewhite;
+    border: 5px dashed brown;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px
+}
+
+.main h1 {
+    background-color: antiquewhite;
+    text-align: center;
+    color: brown;
+}
+
+.main ul{
+    text-align: center;
+    list-style-position: inside;
+    list-style-type:circle
+}
+
